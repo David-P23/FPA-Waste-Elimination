@@ -33,6 +33,9 @@ First, we devised a survey that would be sent to 18 locations throughout the cou
 instructs inside sales to note the FPAs they source, how long it took to source that item,  
 what resource was used, who the vendor(s) are and other info relevant to the objective questions.  
 
+![image](https://user-images.githubusercontent.com/91306342/160321490-b104be53-740c-4bcc-93f6-2d355bca9525.png)  
+
+
 We predicted that employee years of experience and source used would have significant effects on  
 the time it takes to source FPAs, so those were also two fields we required. Over a one week period,  
 18 service centers throughout the US collected this info for our analysis. We then used various  
