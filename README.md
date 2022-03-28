@@ -85,7 +85,7 @@ This is an example of a PIG page for ball bearings:
 ![PIG](https://user-images.githubusercontent.com/91306342/160319158-c8b7f6c5-5a68-41f6-b137-75f3fab6717a.JPG)
 
 ***By capturing "tribal knowledge" before it leaves the company, preventing duplicate FPAs, and  
-creating a PIG we have the potential to:  
+creating a PIG we have the potential to:***  
 
 - Free up over 50,000 man-hours  
 - Increase quote turnaround time  
